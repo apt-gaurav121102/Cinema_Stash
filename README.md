@@ -46,8 +46,8 @@ The system provides role-based access for **Admins** and **Users**, enabling eff
 
 👨‍💻 Developed By
 
-Gaurav Apte
-Rohini Bhagwatkar
+Gaurav Apte, 
+Rohini Bhagwatkar &
 Afsha Khan
 CDAC – Web Programming with Java (WPJ)
 Final Project
