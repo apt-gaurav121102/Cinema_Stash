@@ -1,0 +1,37 @@
+.page {
+  background: radial-gradient(#434343 0%, black 100%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.pageN{
+  background: radial-gradient(#434343 0%, black 100%);
+  height: fit-content;
+}
+
+.glassCard {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(10px);
+  width: 100%;
+  max-width: 400px;
+  padding: 30px;
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+.glassCard:hover{
+  transform: scale(1.02);
+  cursor: pointer;
+}
+
+.underline-none {
+  text-decoration: none !important;
+}
+
+.underline-none:hover {
+  text-decoration: underline;
+}
+
